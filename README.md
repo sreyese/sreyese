@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Welcome to my GitHub profile, I'm an MSc candidate at [CIC](https://www.cic.ipn.mx/) studying artificial intelligence and autonomous flight. 
+
+I'm a design engineer at [Imago Aerospace](http://imago.aero/), through the years I've been working on several autonomous aircraft designs and tests. My main working field is aerodynamics design and optimization. 
+
 <!--
 **sreyese/sreyese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
